@@ -1,0 +1,14 @@
+MyUnknownColumn,company_name,company_based,no_employees,tenure,headquartered,designation,experience,salary_range,avg_salary,rating
+286,Flipkart,"Internet "," 10k-50k Employees ",16,Bangalore,"Data Analyst",0-6yrs,"(â‚¹1.8L/yr - â‚¹11.0L/yr)","â‚¹6,18,432/year",4.1
+887,eClerx,"IT Services & Consulting "," 10k-50k Employees ",23,Mumbai,"Data Analyst",0-3yrs,"(â‚¹1.4L/yr - â‚¹6.2L/yr)","â‚¹2,73,994/year",3.4
+1186,GlobalLogic,"IT Services & Consulting "," 10k-50k Employees ",23,"San francisco","Data Analyst",0-5yrs,"(â‚¹1.5L/yr - â‚¹5.1L/yr)","â‚¹2,86,700/year",3.8
+1434,Optum,"Healthcare "," 10k-50k Employees ",46,Prairie,"Data Analyst",0-10yrs,"(â‚¹6.2L/yr - â‚¹26.0L/yr)","â‚¹15,15,481/year",4
+1757,UnitedHealth,"Healthcare "," 10k-50k Employees ",46,Minnetonka,"Data Analyst",1-8yrs,"(â‚¹7.7L/yr - â‚¹20.2L/yr)","â‚¹11,51,290/year",4.1
+2371,"S&P Global","IT Services & Consulting "," 5k-10k Employees ",106,"New York","Data Analyst",0-14yrs,"(â‚¹2.0L/yr - â‚¹9.0L/yr)","â‚¹6,15,294/year",4.2
+3389,"Datamatics Global Services","IT Services & Consulting "," 5k-10k Employees ",48,Mumbai,"Data Analyst",0-6yrs,"(â‚¹75.0K/yr - â‚¹7.0L/yr)","â‚¹2,67,064/year",3.6
+3420,Myntra,"Internet "," 1k-5k Employees ",16,Bangalore,"Data Analyst",0-4yrs,"(â‚¹6.0L/yr - â‚¹19.0L/yr)","â‚¹12,23,539/year",4
+4246,Google,"Internet "," 10k-50k Employees ",25,Mountain,"Data Analyst",0-7yrs,"(â‚¹8.5L/yr - â‚¹36.5L/yr)","â‚¹22,52,051/year",4.4
+4284,Straive,"EdTech "," 5k-10k Employees ",43,Singapore,"Data Analyst",0-7yrs,"(â‚¹1.0L/yr - â‚¹4.8L/yr)","â‚¹2,74,335/year",3.5
+4529,Novartis,"Pharma "," 1k-5k Employees ",27,Switzerland,"Data Analyst",0-6yrs,"(â‚¹5.0L/yr - â‚¹15.2L/yr)","â‚¹10,50,574/year",4.1
+5179,"Johnson & Johnson","Pharma "," 1k-5k Employees ",66,"New York","Data Analyst",2-6yrs,"(â‚¹3.0L/yr - â‚¹12.0L/yr)","â‚¹7,26,698/year",4.2
+5415,Aon,"Management Consulting "," 5k-10k Employees ",83,London,"Data Analyst",1-4yrs,"(â‚¹2.0L/yr - â‚¹7.2L/yr)","â‚¹4,81,068/year",3.9
