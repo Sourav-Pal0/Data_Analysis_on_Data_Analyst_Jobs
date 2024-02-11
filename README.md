@@ -64,29 +64,19 @@ Dive into the data yourself! I've included my MySQL queries and PowerBI visualiz
 
 # Why did I create this?
 
-**1. Exploring the Data Analyst Landscape:**
+**1. Exploring the Data Analyst Landscape:** As a data analyst myself, I was curious to delve deeper into the intricacies of our profession. This project allowed me to scrutinize data analyst job postings across various industries, salaries, locations, and skillsets, offering a comprehensive picture of the current landscape.
 
-As a data analyst myself, I was curious to delve deeper into the intricacies of our profession. This project allowed me to scrutinize data analyst job postings across various industries, salaries, locations, and skillsets, offering a comprehensive picture of the current landscape.
+**2. Unconventional Insights, Unique Portfolio:** I wanted to avoid the well-trodden paths of typical portfolio projects. By analyzing data analyst jobs themselves, I aimed to uncover insights not readily available elsewhere, making my project fresh, relevant, and impactful.
 
-**2. Unconventional Insights, Unique Portfolio:**
+**3. Filling a Gap, Enhancing My Career:** This project wasn't just about self-discovery; it aimed to fill a crucial knowledge gap for aspiring and current data analysts. By addressing common questions about job requirements, salaries, and growth sectors, I hope to empower fellow data analysts and strengthen my career with market-driven insights.
 
-I wanted to avoid the well-trodden paths of typical portfolio projects. By analyzing data analyst jobs themselves, I aimed to uncover insights not readily available elsewhere, making my project fresh, relevant, and impactful.
+**4. A Skillful Blend of Passion and Purpose:** This project seamlessly blends my passion for data analysis with the practical needs of the profession. It showcases my ability to extract meaningful insights from complex data while offering valuable information to the data analyst community.
 
-**3. Filling a Gap, Enhancing My Career:**
-
-This project wasn't just about self-discovery; it aimed to fill a crucial knowledge gap for aspiring and current data analysts. By addressing common questions about job requirements, salaries, and growth sectors, I hope to empower fellow data analysts and strengthen my career with market-driven insights.
-
-**4. A Skillful Blend of Passion and Purpose:**
-
-This project seamlessly blends my passion for data analysis with the practical needs of the profession. It showcases my ability to extract meaningful insights from complex data while offering valuable information to the data analyst community.
-
-**5. Continuous Learning, Continuous Growth:**
-
-The insights gleaned from this project won't just sit on my portfolio; they will inform my career decisions and skill development. Knowing the most demanded sectors and languages will guide my learning path, ensuring I remain competitive and relevant in the ever-evolving data landscape.
+**5. Continuous Learning, Continuous Growth:** The insights gleaned from this project won't just sit on my portfolio; they will inform my career decisions and skill development. Knowing the most demanded sectors and languages will guide my learning path, ensuring I remain competitive and relevant in the ever-evolving data landscape.
 
 # My Portfolio Website Link: https://sourav-pal0.github.io/My-Portfolio-Website/
 
-# Screenshots:
+# Preview:
 
 ![Dashboard_2](https://github.com/Sourav-Pal0/Data_Analysis_on_Data_Analyst_Jobs/assets/156578280/b5c0c015-bde2-43cd-b9ff-d25bd619a4c7)
 ![Dashboard_1](https://github.com/Sourav-Pal0/Data_Analysis_on_Data_Analyst_Jobs/assets/156578280/192c9284-d92d-4474-983b-0e0d1c446041)
