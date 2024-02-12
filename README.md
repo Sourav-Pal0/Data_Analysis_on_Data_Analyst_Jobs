@@ -3,10 +3,10 @@ Hi there! Welcome to my first portfolio project, where I delve into the exciting
 
 **Ever wondered about:**
 
-Which industries crave data wizards the most?
-Where do the golden paychecks hide for data analysts?
-Which tech giants reign supreme in data realms?
-And the secret sauce to landing your dream data analyst gig?
+* Which industries crave data wizards the most?
+* Where do the golden paychecks hide for data analysts?
+* Which tech giants reign supreme in data realms?
+* And the secret sauce to landing your dream data analyst gig?
 
 **My quest for answers led me to:**
 
@@ -36,17 +36,17 @@ This project is just the beginning of my data exploration journey. Stay tuned fo
 
 Uncover actionable intel to propel your career:
 
-**Dominant Industries:** I pinpointed the industries hungriest for data wizards – Information Services, IT, and Technology lead the pack, with a 35% surge in job postings compared to last year!
+* **Dominant Industries:** I pinpointed the industries hungriest for data wizards – Information Services, IT, and Technology lead the pack, with a 35% surge in job postings compared to last year!
 
-**Salary Superstars:** Google and PayPal top the charts, offering an average of 18% higher salary than the competition. Make informed decisions about where your skills command the highest premium!
+* **Salary Superstars:** Google and PayPal top the charts, offering an average of 18% higher salary than the competition. Make informed decisions about where your skills command the highest premium!
 
-**Throne of Opportunity:** The United States reigns supreme, with a 27% increase in data analyst job openings. But don't underestimate the rapidly growing 15% demand in countries like India and Canada!
+* **Throne of Opportunity:** The United States reigns supreme, with a 27% increase in data analyst job openings. But don't underestimate the rapidly growing 15% demand in countries like India and Canada!
 
-**Language of the Pros:** Python emerges as the clear champion, with a 42% usage share among data analysts. Equip yourself with the right tools to stay ahead of the curve!
+* **Language of the Pros:** Python emerges as the clear champion, with a 42% usage share among data analysts. Equip yourself with the right tools to stay ahead of the curve!
 
-**Job Board Goldmine:** Upwork, FlexJobs, and Idealist unearthed 20% more relevant job postings compared to traditional platforms. Optimize your job search with the best resources!
+* **Job Board Goldmine:** Upwork, FlexJobs, and Idealist unearthed 20% more relevant job postings compared to traditional platforms. Optimize your job search with the best resources!
 
-# And that's just the tip of the iceberg! My project delves deeper, answering:
+## And that's just the tip of the iceberg! My project delves deeper, answering:
 
 What's the average salary range for a data analyst?
 Which sector is booming for data analysts?
@@ -56,11 +56,11 @@ Dive into the data yourself! I've included my MySQL queries and PowerBI visualiz
 
 # Key Points:-
 
-**Chart Your Path:** I analyzed thousands of job listings to reveal surging industries like IT (35% growth!), top-paying companies (Google & PayPal, 18% premium!), the fastest-growing sectors (e.g., finance, 15% growth), and the hottest language (Python, 42% dominant). Equip yourself with this intel to target the right opportunities.
+* **Chart Your Path:** I analyzed thousands of job listings to reveal surging industries like IT (35% growth!), top-paying companies (Google & PayPal, 18% premium!), the fastest-growing sectors (e.g., finance, 15% growth), and the hottest language (Python, 42% dominant). Equip yourself with this intel to target the right opportunities.
 
-**Land Your Ideal Role:** Discover the most effective job boards (e.g., Upwork, 20% more relevant postings) and hone your resume with in-demand skills. My project streamlines your job hunt, saving you time and effort.
+* **Land Your Ideal Role:** Discover the most effective job boards (e.g., Upwork, 20% more relevant postings) and hone your resume with in-demand skills. My project streamlines your job hunt, saving you time and effort.
 
-**Go Beyond the Surface:** Dive deeper with interactive SQL queries and PowerBI visuals. Explore burning questions like average salary range and booming sectors. This project is your springboard to a thriving data analyst career.
+* **Go Beyond the Surface:** Dive deeper with interactive SQL queries and PowerBI visuals. Explore burning questions like average salary range and booming sectors. This project is your springboard to a thriving data analyst career.
 
 # Why did I create this?
 
