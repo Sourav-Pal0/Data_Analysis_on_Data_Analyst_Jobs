@@ -14,17 +14,17 @@ Explore a treasure trove of data analyst job listings using MySQL.
 Craft stunning visualizations with PowerBI to bring insights to life. ✨
 Uncover hidden trends and patterns that guide your career choices.
 
-Get ready to unlock the secrets!
+* Get ready to unlock the secrets!
 
-Top Industries Hungry for Data Analysts:
+* Top Industries Hungry for Data Analysts:
 
-Salary Superstars: Who Pays the Most?
+* Salary Superstars: Who Pays the Most?
 
-The Golden Throne: Where to Rule as a Data Analyst:
+* The Golden Throne: Where to Rule as a Data Analyst:
 
-Mastering the Language of Data:
+* Mastering the Language of Data:
 
-Job Boards That Open Doors:
+* Job Boards That Open Doors:
 
 And much, much more!
 
